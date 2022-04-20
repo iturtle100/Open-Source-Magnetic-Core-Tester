@@ -8,4 +8,4 @@ This repository contains all of the information needed to create and operate a M
 *
 * See poster below for information on the project
 
-![alt text] ./AutomaticMagneticCoreTester.png
+![alt text](./AutomaticMagneticCoreTester.png)
