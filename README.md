@@ -6,4 +6,6 @@ This repository contains all of the information needed to create and operate a M
    * see ./gui for source code
 *
 *
-*
+* See poster below for information on the project
+
+![alt text] ./AutomaticMagneticCoreTester.png
