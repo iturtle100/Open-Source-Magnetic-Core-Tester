@@ -6,7 +6,7 @@ This repository contains all of the information needed to create and operate a M
    * see ./gui for source code
 * Data Acquisition code using PicoSDK and python libraries
    * see ./data_acq for source code
-*
+* For information on how to install Pico drivers on Raspberry Pi please see ./rpi_install
 * See poster below for information on the project
 
 ![alt text](./AutomaticMagneticCoreTester.png)

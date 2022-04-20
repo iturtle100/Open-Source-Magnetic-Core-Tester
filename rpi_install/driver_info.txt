@@ -1,0 +1,7 @@
+Date: 04/2022
+
+*There are known issues when installing Pico drivers on Raspberry Pi 4
+*Please see Stack Overflow post:
+	https://www.picotech.com/support/viewtopic.php?p=145119#p145119
+
+**FOR PICO 5442D USE ps5000a LIBRARY**
