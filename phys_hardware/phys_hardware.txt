@@ -17,7 +17,8 @@ air flow.  Will need Autodesk Fusion 360 to operate.  See below for download det
 
 Buck-Boost Simulink model - simulated buck boost design with adjustable output loads and 
 duty cycle.  Also allows for modification of inductor and capacitor layout along with 
-values.  Will need Simulink and Matlab software to operate. See below for download details
+values.  Values and outputs are linked to the live script in the Matlab directory.   
+Will need Simulink and Matlab software to operate. See below for download details
 
 
 Autodesk : https://www.autodesk.com/products/fusion-360/overview?term=1-YEAR&tab=subscription
