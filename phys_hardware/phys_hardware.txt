@@ -1,0 +1,30 @@
+Power Supply Read Me doc
+
+Henry Steffens
+4/20/21
+
+The power supply portion of the Automatic Core tester is a highly complex and intricate 
+piece of hardware that was meticulously and continually tested.  The buck-boost converter
+is capable of 10V to 1200V output from a 48V-240V input voltage.  The operational details
+of an inverting buck-boost converter are best described according to this wikipedia article:
+https://en.wikipedia.org/wiki/Buck–boost_converter
+along with relevant equations about duty cycle and output ripple.
+
+Relevant source files/software:
+Casing design - CAD file enclosing the PCB and AC-DC converters that allows for adequate
+air flow.  Will need Autodesk Fusion 360 to operate.  See below for download details
+
+
+Buck-Boost Simulink model - simulated buck boost design with adjustable output loads and 
+duty cycle.  Also allows for modification of inductor and capacitor layout along with 
+values.  Will need Simulink and Matlab software to operate. See below for download details
+
+
+Autodesk : https://www.autodesk.com/products/fusion-360/overview?term=1-YEAR&tab=subscription
+Matlab/Simulink : https://www.mathworks.com/help/install/ug/download-without-installing.html
+
+Good Luck!
+
+
+
+
