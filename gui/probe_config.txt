@@ -1,0 +1,8 @@
+Scope probe config file
+
+Voltage Probe
+v_max (V): 1700
+v_gain (Attenuation): 200
+
+Current Probe
+i_gain (V/A): 1
